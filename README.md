@@ -3,7 +3,11 @@
 ## 🚀 About Me  
 I'm a **Data Science & AI Engineering** student passionate about **technology, innovation, and sustainability**. My journey blends **machine learning, and software development** with a deep commitment to solving real-world problems.  
 
-🔭 Working on: **Smart Poultry Web Application that monitors and remotely controll IoT Farming solution**  
+🔭 Working on: 
+- ![Smart Poultry](https://github.com/somanithpreap/smart-poultry) **Web Application that monitors and remotely controll IoT Farming solution.**
+- ![Flexi:](https://github.com/PexaMax/flexi/tree/frontend) **A Scalable, Extensible, Customizable Project Management System.**
+- ![Chicken Disease Idenification](https://github.com/SirOsborn/Chicken-Disease-Identifier) **Recognizes and determines poultry illness by Fecal images using deep learning algorithm.**
+
 📚 Past projects: **TRONOM (Rental App for Students), Competition in Data Analytics for Solar Energy, Sentiment Analysis Mini-Project**  
 
 ## 🎯 Interests  
