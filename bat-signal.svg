@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="The bat-signal, glowing above a Gotham skyline at night">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#060912"/>
+      <stop offset="60%" stop-color="#0c1322"/>
+      <stop offset="100%" stop-color="#1a2436"/>
+    </linearGradient>
+    <radialGradient id="signalGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#e8c75a" stop-opacity="0.34"/>
+      <stop offset="45%" stop-color="#e8c75a" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#e8c75a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beamGrad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#e8c75a" stop-opacity="0.15"/>
+      <stop offset="60%" stop-color="#e8c75a" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#e8c75a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="batFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7e08a"/>
+      <stop offset="45%" stop-color="#e8c75a"/>
+      <stop offset="100%" stop-color="#c89b34"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="batBlur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <filter id="cloudSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <path id="bat" d="M70.00,450.00 L71.58,430.91 L73.94,419.85 L76.30,411.90 L80.24,401.51 L84.18,393.03 L95.22,374.38 L109.40,356.02 L125.95,338.77 L145.65,321.72 L167.71,305.57 L192.93,289.77 L220.51,274.87 L250.45,260.84 L281.97,248.00 L315.85,236.00 L352.10,224.90 L389.92,214.97 L429.32,206.19 L431.69,238.54 L434.05,255.50 L437.99,273.94 L443.51,292.02 L451.39,310.69 L460.06,325.99 L470.30,339.74 L482.12,351.67 L494.73,361.05 L508.91,368.44 L523.88,373.33 L539.64,375.77 L556.19,375.75 L572.74,373.35 L590.08,368.46 L607.41,361.27 L609.77,360.11 L610.56,355.50 L632.63,180.38 L654.69,246.57 L655.48,247.50 L744.52,247.50 L745.31,246.57 L767.37,180.38 L790.23,360.11 L802.05,365.48 L813.08,369.53 L824.90,372.82 L835.93,374.89 L850.11,376.05 L863.51,375.48 L876.90,373.14 L889.51,369.09 L901.33,363.41 L912.36,356.15 L922.61,347.32 L932.06,336.89 L940.73,324.76 L947.82,312.27 L954.13,298.28 L959.64,282.43 L963.58,267.40 L966.74,250.67 L969.10,229.97 L970.68,206.19 L1011.65,215.35 L1050.26,225.58 L1087.30,237.05 L1121.97,249.51 L1145.61,259.14 L1168.46,269.47 L1189.74,280.16 L1210.23,291.62 L1228.35,302.94 L1245.68,315.07 L1261.44,327.52 L1275.63,340.27 L1288.24,353.33 L1299.27,366.70 L1308.72,380.42 L1316.60,394.62 L1322.91,409.60 L1326.85,423.03 L1329.21,436.50 L1330.00,450.00 L1329.21,463.50 L1326.85,476.97 L1322.91,490.40 L1317.39,503.75 L1310.30,516.99 L1301.63,530.11 L1291.39,543.07 L1280.36,555.05 L1266.96,567.73 L1252.78,579.52 L1237.02,591.18 L1219.68,602.63 L1201.56,613.39 L1181.86,623.94 L1160.58,634.22 L1138.52,643.86 L1100.69,658.35 L1060.51,671.42 L1058.93,657.50 L1057.35,649.31 L1054.99,640.84 L1051.84,632.31 L1047.11,622.36 L1041.59,613.13 L1035.29,604.54 L1028.99,597.41 L1021.89,590.72 L1014.02,584.60 L1006.14,579.65 L997.47,575.40 L988.80,572.26 L980.13,570.18 L971.46,569.10 L962.01,569.05 L954.13,569.91 L946.25,571.63 L938.37,574.24 L931.28,577.42 L924.18,581.47 L917.88,585.88 L911.58,591.20 L905.27,597.61 L899.76,604.37 L895.03,611.31 L891.09,618.25 L887.15,626.83 L882.42,641.84 L880.84,650.48 L880.06,659.70 L879.27,651.54 L877.69,642.96 L872.96,629.01 L869.02,621.42 L865.08,615.50 L860.36,609.80 L855.63,605.19 L850.11,600.84 L843.81,596.95 L837.50,594.00 L831.20,591.86 L824.11,590.30 L817.02,589.54 L809.92,589.54 L802.05,590.36 L793.38,592.23 L784.71,595.09 L776.04,598.94 L767.37,603.81 L758.71,609.76 L750.83,616.18 L742.95,623.68 L735.07,632.43 L727.97,641.59 L721.67,651.07 L716.15,660.74 L711.43,670.53 L707.49,680.38 L704.33,690.26 L701.97,700.29 L700.39,711.39 L699.61,711.39 L698.03,700.29 L694.88,687.54 L687.79,668.78 L677.54,649.80 L671.24,640.51 L664.15,631.49 L657.05,623.68 L649.17,616.18 L641.29,609.76 L632.63,603.81 L623.96,598.94 L615.29,595.09 L606.62,592.23 L597.95,590.36 L590.08,589.54 L582.98,589.54 L575.89,590.30 L568.80,591.86 L562.50,594.00 L556.19,596.95 L549.89,600.84 L544.37,605.19 L539.64,609.80 L534.92,615.50 L530.98,621.42 L527.04,629.01 L522.31,642.96 L520.73,651.54 L519.94,659.70 L519.16,650.48 L517.58,641.84 L512.85,626.83 L508.91,618.25 L504.97,611.31 L500.24,604.37 L494.73,597.61 L488.42,591.20 L482.12,585.88 L475.82,581.47 L468.72,577.42 L461.63,574.24 L453.75,571.63 L445.87,569.91 L437.99,569.05 L428.54,569.10 L419.87,570.18 L411.20,572.26 L402.53,575.40 L393.86,579.65 L385.98,584.60 L378.11,590.72 L371.01,597.41 L364.71,604.54 L358.41,613.13 L352.89,622.36 L348.16,632.31 L345.01,640.84 L342.65,649.31 L341.07,657.50 L339.49,671.42 L299.31,658.35 L262.27,644.18 L240.21,634.58 L218.93,624.34 L199.23,613.83 L181.11,603.12 L163.77,591.73 L148.01,580.14 L133.83,568.42 L120.43,555.85 L108.61,543.07 L98.37,530.11 L89.70,516.99 L82.61,503.75 L77.09,490.40 L73.15,476.97 L70.79,463.50 L70.00,450.00 Z
+"/>
+    <g id="beam">
+      <polygon points="600,400 310,30 890,30" fill="url(#beamGrad)"/>
+    </g>
+    <g id="beamThin">
+      <polygon points="600,400 470,70 730,70" fill="url(#beamGrad)"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#sky)"/>
+
+  <g fill="#dbe2ee">
+    <circle cx="90" cy="60" r="1.4"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="120" r="1.1"><animate attributeName="opacity" values="0.5;0.08;0.5" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="44" r="1.2"><animate attributeName="opacity" values="0.1;0.75;0.1" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="150" r="0.9"><animate attributeName="opacity" values="0.45;0.1;0.45" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="66" r="1.0"><animate attributeName="opacity" values="0.08;0.65;0.08" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="98" r="1.3"><animate attributeName="opacity" values="0.25;0.8;0.25" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="36" r="0.9"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="140" r="1.2"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="985" cy="58" r="1.0"><animate attributeName="opacity" values="0.4;0.08;0.4" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="120" r="1.1"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="4.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <circle cx="1060" cy="74" r="70" fill="url(#moonGlow)"/>
+  <circle cx="1060" cy="74" r="27" fill="#e9e7da"/>
+  <circle cx="1049" cy="66" r="5.2" fill="#c9c7b8" opacity="0.6"/>
+  <circle cx="1073" cy="80" r="7.2" fill="#c9c7b8" opacity="0.5"/>
+  <circle cx="1056" cy="86" r="3.6" fill="#c9c7b8" opacity="0.55"/>
+
+  <circle cx="600" cy="170" r="330" fill="url(#signalGlow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.7">
+    <use href="#beam">
+      <animateTransform attributeName="transform" type="rotate" values="-4 600 400;4 600 400;-4 600 400" dur="26s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g opacity="0.5">
+    <use href="#beamThin">
+      <animateTransform attributeName="transform" type="rotate" values="6 600 400;-6 600 400;6 600 400" dur="34s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <use href="#bat" transform="translate(600 168) scale(0.45) translate(-700 -445.9)" fill="#8a6412" filter="url(#batBlur)" opacity="0.55">
+    <animate attributeName="opacity" values="0.45;0.62;0.45" dur="5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#bat" transform="translate(600 168) scale(0.45) translate(-700 -445.9)" fill="url(#batFill)">
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="5s" repeatCount="indefinite"/>
+  </use>
+
+  <g filter="url(#cloudSoft)" opacity="0.45">
+    <ellipse cx="0" cy="300" rx="230" ry="26" fill="#141c2c">
+      <animateTransform attributeName="transform" type="translate" from="-250 0" to="1450 0" dur="70s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="330" rx="270" ry="30" fill="#111a29">
+      <animateTransform attributeName="transform" type="translate" from="-290 0" to="1490 0" dur="92s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="272" rx="210" ry="22" fill="#161e2f">
+      <animateTransform attributeName="transform" type="translate" from="-230 0" to="1430 0" dur="120s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <g fill="#0b111d">
+    <rect x="0" y="344" width="1200" height="56"/>
+  </g>
+  <g fill="#0e1626">
+    <rect x="18" y="316" width="46" height="28"/>
+    <rect x="76" y="296" width="38" height="48"/>
+    <rect x="126" y="324" width="30" height="20"/>
+    <rect x="168" y="304" width="54" height="40"/>
+    <rect x="236" y="284" width="40" height="60"/>
+    <rect x="288" y="316" width="34" height="28"/>
+    <rect x="334" y="298" width="58" height="46"/>
+    <rect x="404" y="322" width="28" height="22"/>
+    <rect x="444" y="288" width="44" height="56"/>
+    <rect x="500" y="310" width="36" height="34"/>
+    <rect x="548" y="326" width="30" height="18"/>
+    <rect x="590" y="292" width="48" height="52"/>
+    <rect x="650" y="312" width="34" height="32"/>
+    <rect x="696" y="300" width="42" height="44"/>
+    <rect x="750" y="322" width="28" height="22"/>
+    <rect x="790" y="286" width="40" height="58"/>
+    <rect x="842" y="306" width="36" height="38"/>
+    <rect x="890" y="318" width="48" height="26"/>
+    <rect x="950" y="296" width="38" height="48"/>
+    <rect x="1000" y="324" width="30" height="20"/>
+    <rect x="1042" y="290" width="46" height="54"/>
+    <rect x="1100" y="312" width="34" height="32"/>
+    <rect x="1146" y="302" width="40" height="42"/>
+  </g>
+  <g stroke="#0b111d" stroke-width="2" opacity="0.8">
+    <line x1="256" y1="284" x2="256" y2="262"/>
+    <line x1="810" y1="286" x2="810" y2="264"/>
+  </g>
+  <g fill="#e8c75a" opacity="0.4">
+    <rect x="24" y="324" width="3" height="2"/>
+    <rect x="34" y="330" width="3" height="2"/>
+    <rect x="82" y="304" width="3" height="2"/>
+    <rect x="96" y="312" width="3" height="2"/>
+    <rect x="176" y="312" width="3" height="2"/>
+    <rect x="196" y="320" width="3" height="2"/>
+    <rect x="244" y="292" width="3" height="2"/>
+    <rect x="258" y="304" width="3" height="2"/>
+    <rect x="340" y="306" width="3" height="2"/>
+    <rect x="362" y="316" width="3" height="2"/>
+    <rect x="452" y="296" width="3" height="2"/>
+    <rect x="468" y="310" width="3" height="2"/>
+    <rect x="596" y="300" width="3" height="2"/>
+    <rect x="612" y="314" width="3" height="2"/>
+    <rect x="700" y="306" width="3" height="2"/>
+    <rect x="720" y="318" width="3" height="2"/>
+    <rect x="796" y="292" width="3" height="2"/>
+    <rect x="814" y="306" width="3" height="2"/>
+    <rect x="956" y="304" width="3" height="2"/>
+    <rect x="972" y="316" width="3" height="2"/>
+    <rect x="1050" y="298" width="3" height="2"/>
+    <rect x="1068" y="310" width="3" height="2"/>
+  </g>
+</svg>
