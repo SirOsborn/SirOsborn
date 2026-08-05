@@ -66,10 +66,6 @@
 
 <br/>
 
-<a href="https://github.com/SirOsborn"><img src="https://github-profile-trophy.vercel.app/?username=SirOsborn&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" width="100%"/></a>
-
-<br/>
-
 <a href="https://github.com/SirOsborn"><img src="https://streak-stats.demolab.com/?user=SirOsborn&theme=dark&background=0D0F12&border=1e2d45&ring=C9A227&fire=C9A227&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=E5E7EB" alt="GitHub Streak"/></a>
 
 <br/>
