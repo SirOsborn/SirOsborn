@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/SirOsborn/SirOsborn/main/bat-signal.svg" alt="Bat-signal glowing above Gotham skyline" width="100%"/>
 
@@ -66,9 +66,11 @@
 
 <br/>
 
-<a href="https://github.com/SirOsborn"><img src="https://github-readme-stats.vercel.app/api?username=SirOsborn&show_icons=true&theme=dark&title_color=22D3EE&text_color=E5E7EB&icon_color=C9A227&bg_color=0D0F12&border_color=1e2d45&hide_border=false" alt="GitHub Stats"/></a>
+<a href="https://github.com/SirOsborn"><img src="https://github-readme-stats.vercel.app/api?username=SirOsborn&show_icons=true&theme=dark&title_color=22D3EE&text_color=E5E7EB&icon_color=C9A227&bg_color=0D0F12&border_color=1e2d45&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/></a>
 
 <a href="https://github.com/SirOsborn"><img src="https://streak-stats.demolab.com/?user=SirOsborn&theme=dark&background=0D0F12&border=1e2d45&ring=C9A227&fire=C9A227&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=E5E7EB" alt="GitHub Streak"/></a>
+
+<a href="https://github.com/SirOsborn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirOsborn&layout=compact&theme=dark&title_color=22D3EE&text_color=E5E7EB&bg_color=0D0F12&border_color=1e2d45&langs_count=6&cache_seconds=1800" alt="Top Languages"/></a>
 
 </div>
 
