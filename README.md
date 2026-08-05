@@ -66,11 +66,15 @@
 
 <br/>
 
-<a href="https://github.com/SirOsborn"><img src="https://github-readme-stats.vercel.app/api?username=SirOsborn&show_icons=true&theme=dark&title_color=22D3EE&text_color=E5E7EB&icon_color=C9A227&bg_color=0D0F12&border_color=1e2d45&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/></a>
+<a href="https://github.com/SirOsborn"><img src="https://github-profile-trophy.vercel.app/?username=SirOsborn&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" width="100%"/></a>
+
+<br/>
 
 <a href="https://github.com/SirOsborn"><img src="https://streak-stats.demolab.com/?user=SirOsborn&theme=dark&background=0D0F12&border=1e2d45&ring=C9A227&fire=C9A227&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=E5E7EB" alt="GitHub Streak"/></a>
 
-<a href="https://github.com/SirOsborn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirOsborn&layout=compact&theme=dark&title_color=22D3EE&text_color=E5E7EB&bg_color=0D0F12&border_color=1e2d45&langs_count=6&cache_seconds=1800" alt="Top Languages"/></a>
+<br/>
+
+<a href="https://github.com/SirOsborn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SirOsborn&bg_color=0D0F12&color=22D3EE&line=C9A227&point=E5E7EB&area=true&area_color=1e2d45&hide_border=true" alt="Contribution Graph" width="100%"/></a>
 
 </div>
 
