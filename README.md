@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/SirOsborn/SirOsborn/main/bat-signal.svg" alt="Bat-signal glowing above Gotham skyline" width="100%"/>
 
 <a href="https://github.com/SirOsborn">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3600&pause=600&color=22D3EE&background=0D0F12&center=true&vCenter=true&multiline=false&width=520&height=50&lines=%3E+Aspiring+AI+Engineer;%3E+3rd+year+BSc+Data+Science+%26+AI+%40+CamTech;%3E+The+night+is+darkest+just+before+the+dawn.;%3E+I%27m+Osborn." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3600&pause=600&color=22D3EE&background=0D0F12&center=true&vCenter=true&multiline=false&width=520&height=50&lines=%3E+Aspiring+AI+Engineer;%3E+4th+year+BSc+Data+Science+%26+AI+%40+CamTech;%3E+The+night+is+darkest+just+before+the+dawn.;%3E+I%27m+Osborn." alt="Typing animation"/>
 </a>
 
 <br/>
@@ -88,9 +88,9 @@
 
 **Heng Sun (Osborn)** · Aspiring AI Engineer
 
-3rd year **BSc Data Science & AI Engineering** @ Cambodia University of Technology & Science (CamTech) · Phnom Penh, Cambodia
+4th year **BSc Data Science & AI Engineering** @ Cambodia University of Technology & Science (CamTech) · Phnom Penh, Cambodia
 
-I build machine-learning systems that quietly watch over real-world problems — smart farming, public health, legal documents. Same job description as Gotham's night shift: relentless, mostly nocturnal, never looks away.
+I build machine-learning systems that quietly watch over real-world problems — smart farming, public health, legal documents. Same job description as Phnom Penh's night shift: relentless, mostly nocturnal, never looks away.
 
 > *Dreaming in ML & NLP, curious about the Pale Blue Dot, and pushing for better tech & cyber literacy in Cambodia.*
 
@@ -102,7 +102,7 @@ I build machine-learning systems that quietly watch over real-world problems —
 
   LOCATION  ··· Phnom Penh 🇰🇭
   TIMEZONE  ··· UTC+7
-  YEAR      ··· 3rd · BSc DS & AI
+  YEAR      ··· 4th · BSc DS & AI
   FOCUS     ··· ML · NLP · LLMs
   VIBE      ··· nocturnal · relentless
   STATUS    ··· open to internships ✓
@@ -219,6 +219,6 @@ Research investigating whether PM2.5 air pollution causally drives malaria incid
 
 <sub>Powered by caffeine, curiosity and a deep respect for the night.</sub>
 <br/>
-<sub><b>I'm the engineer Gotham needs.</b></sub>
+<sub><b>I'm the engineer Phnom Penh needs.</b></sub>
 
 </div>
